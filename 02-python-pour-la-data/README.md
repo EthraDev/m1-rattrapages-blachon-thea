@@ -35,6 +35,10 @@ This project uses Jupyter Notebook for interactive Python development. Follow th
 
 3. **Run code cells interactively and visualize results.**
 
+## Lien Youtube
+
+https://youtu.be/QpgQoyK64Yc
+
 ## Tips
 
 - Save your work frequently.
